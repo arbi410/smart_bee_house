@@ -1,0 +1,16 @@
+<%@ page language="java" import="java.io.InputStream, util.XMLLangLoader" %>
+<%
+    // Récupérer la langue depuis la session ou le paramètre URL
+    String lang = (String) session.getAttribute("lang");
+    if (lang == null) {
+        lang = request.getParameter("lang");
+        if (lang == null || lang.isEmpty()) {
+            lang = "fr"; // langue par défaut
+        }
+        session.setAttribute("lang", lang);
+    }
+
+    // Charger le fichier XML des traductions
+    InputStream input = application.getResourceAsStream("/WEB-INF/source/lang.xml");
+    XMLLangLoader loader = new XMLLangLoader(input);
+%>

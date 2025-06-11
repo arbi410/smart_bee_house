@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message key="title">
+        <fr>Bienvenue sur Smart Bee House</fr>
+        <en>Welcome to Smart Bee House</en>
+        <ar>مرحبا بكم في سمارت بي هاوس</ar>
+    </message>
+    <message key="addFermier">
+        <fr>Ajouter Fermier</fr>
+        <en>Add Farmer</en>
+        <ar>إضافة مربي نحل</ar>
+    </message>
+    <message key="addSite">
+        <fr>Ajouter Site Apicole</fr>
+        <en>Add Beekeeping Site</en>
+        <ar>إضافة موقع نحلي</ar>
+    </message>
+    <message key="addRuche">
+        <fr>Ajouter Ruche</fr>
+        <en>Add Hive</en>
+        <ar>إضافة خلية</ar>
+    </message>
+    <message key="site_list_title">
+        <fr>Liste des Sites</fr>
+        <en>List of Sites</en>
+        <ar>قائمة المواقع</ar>
+    </message>
+    <message key="site_table_id">
+        <fr>ID</fr>
+        <en>ID</en>
+        <ar>الرقم</ar>
+    </message>
+    <message key="site_table_name">
+        <fr>Nom</fr>
+        <en>Name</en>
+        <ar>الاسم</ar>
+    </message>
+    <message key="site_table_location">
+        <fr>Emplacement</fr>
+        <en>Location</en>
+        <ar>الموقع</ar>
+    </message>
+    <message key="site_table_farmer">
+        <fr>Fermier</fr>
+        <en>Farmer</en>
+        <ar>المربي</ar>
+    </message>
+    <message key="site_table_actions">
+        <fr>Actions</fr>
+        <en>Actions</en>
+        <ar>الإجراءات</ar>
+    </message>
+    <message key="btn_edit">
+        <fr>Éditer</fr>
+        <en>Edit</en>
+        <ar>تعديل</ar>
+    </message>
+    <message key="btn_delete">
+        <fr>Supprimer</fr>
+        <en>Delete</en>
+        <ar>حذف</ar>
+    </message>
+    <message key="confirm_delete">
+        <fr>Confirmer la suppression ?</fr>
+        <en>Confirm deletion?</en>
+        <ar>هل تؤكد الحذف؟</ar>
+    </message>
+    
+    
+    langxml<messages>
+	<message key="titre_dashboard">
+		<fr>Tableau de Bord des Ruches</fr>
+		<en>Beehive Dashboard</en>
+		<ar>لوحة تحكم الخلايا</ar>
+	</message>
+	<message key="filtrer_par_agent">
+		<fr>Filtrer par agent</fr>
+		<en>Filter by agent</en>
+		<ar>تصفية حسب الوكيل</ar>
+	</message>
+	<message key="filtrer_par_fermier">
+		<fr>Filtrer par fermier</fr>
+		<en>Filter by farmer</en>
+		<ar>تصفية حسب المزارع</ar>
+	</message>
+	<message key="filtrer_par_site">
+		<fr>Filtrer par site</fr>
+		<en>Filter by site</en>
+		<ar>تصفية حسب الموقع</ar>
+	</message>
+	<message key="production_miel">
+		<fr>Production de miel (kg)</fr>
+		<en>Honey production (kg)</en>
+		<ar>إنتاج العسل (كلغ)</ar>
+	</message>
+	<message key="titre_graphique">
+		<fr>Production de miel par ruche</fr>
+		<en>Honey production per beehive</en>
+		<ar>إنتاج العسل حسب الخلية</ar>
+	</message>
+	<message id="accueil">
+		<fr>Accueil</fr>
+		<en>Home</en>
+		<ar>الرئيسية</ar>
+	</message>
+
+	<message key="liste_agent">
+		<fr>Liste des Agents</fr>
+		<en>Agent List</en>
+		<ar>قائمة الوكلاء</ar>
+	</message>
+	<message key="ajouter_agent">
+		<fr>Ajouter un Agent</fr>
+		<en>Add Agent</en>
+		<ar>إضافة وكيل</ar>
+	</message>
+	<message key="supprimer">
+		<fr>Supprimer</fr>
+		<en>Delete</en>
+		<ar>حذف</ar>
+	</message>
+	<message key="modifier">
+		<fr>Modifier</fr>
+		<en>Edit</en>
+		<ar>تعديل</ar>
+	</message>
+	<message key="confirmer_suppression">
+		<fr>Voulez-vous vraiment supprimer cet agent ?</fr>
+		<en>Are you sure you want to delete this agent?</en>
+		<ar>هل أنت متأكد أنك تريد حذف هذا الوكيل؟</ar>
+	</message>
+	<message key="nom">
+		<fr>Nom</fr>
+		<en>Name</en>
+		<ar>الاسم</ar>
+	</message>
+	<message key="role">
+		<fr>Role</fr>
+		<en>Role</en>
+		<ar>الدور</ar>
+	</message>
+	<message key="telephone">
+		<fr>Téléphone</fr>
+		<en>Phone</en>
+		<ar>الهاتف</ar>
+	</message>
+	<message key="actions">
+		<fr>Actions</fr>
+		<en>Actions</en>
+		<ar>الإجراءات</ar>
+	</message>
+
+	<message key="accueil">
+		<fr>Accueil</fr>
+		<en>Home</en>
+		<ar>الرئيسية</ar>
+	</message>
+	<message key="liste_agent">
+		<fr>Agents</fr>
+		<en>Agents</en>
+		<ar>الوكلاء</ar>
+	</message>
+	<message key="liste_ruche">
+		<fr>Ruches</fr>
+		<en>Beehives</en>
+		<ar>الخلايا</ar>
+	</message>
+	<message key="liste_site">
+		<fr>Sites</fr>
+		<en>Sites</en>
+		<ar>المواقع</ar>
+	</message>
+	<message key="liste_ferme">
+		<fr>Fermes</fr>
+		<en>Farms</en>
+		<ar>المزارع</ar>
+	</message>
+	<message key="liste_fermier">
+		<fr>Fermiers</fr>
+		<en>Farmers</en>
+		<ar>المزارعون</ar>
+	</message>
+	<message key="deconnexion">
+		<fr>Déconnexion</fr>
+		<en>Logout</en>
+		<ar>تسجيل الخروج</ar>
+	</message>
+    <message key="gestion_agents">
+        <fr>Gestion des Agents</fr>
+        <en>Agent Management</en>
+        <ar>إدارة الوكلاء</ar>
+    </message>
+    <message key="ajouter_agent">
+        <fr>Ajouter un Agent</fr>
+        <en>Add Agent</en>
+        <ar>إضافة وكيل</ar>
+    </message>
+    <message key="nom">
+        <fr>Nom</fr>
+        <en>Name</en>
+        <ar>الاسم</ar>
+    </message>
+    <message key="role">
+        <fr>Rôle</fr>
+        <en>Role</en>
+        <ar>الدور</ar>
+    </message>
+    <message key="certificat_x509">
+        <fr>Certificat X509</fr>
+        <en>X509 Certificate</en>
+        <ar>شهادة X509</ar>
+    </message>
+    <message key="email_google">
+        <fr>Email Google</fr>
+        <en>Google Email</en>
+        <ar>بريد جوجل</ar>
+    </message>
+    <message key="telephone">
+        <fr>Téléphone</fr>
+        <en>Phone</en>
+        <ar>الهاتف</ar>
+    </message>
+    <message key="ajouter_btn">
+        <fr>Ajouter l'agent</fr>
+        <en>Add Agent</en>
+        <ar>إضافة الوكيل</ar>
+    </message>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</messages>
+</messages>

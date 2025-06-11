@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message key="accueil">
+        <fr>Accueil</fr>
+        <en>Home</en>
+        <ar>الرئيسية</ar>
+    </message>
+    <message key="liste_agent">
+        <fr>Liste agent</fr>
+        <en>Agent list</en>
+        <ar>قائمة العاملين</ar>
+    </message>
+    <message key="liste_ruche">
+        <fr>Liste ruche</fr>
+        <en>Hive list</en>
+        <ar>قائمة الخلايا</ar>
+    </message>
+    <message key="liste_site">
+        <fr>Liste site</fr>
+        <en>Site list</en>
+        <ar>قائمة المواقع</ar>
+    </message>
+    <message key="liste_ferme">
+        <fr>Liste ferme</fr>
+        <en>Farm list</en>
+        <ar>قائمة المزارع</ar>
+    </message>
+    <message key="liste_fermier">
+        <fr>Liste fermier</fr>
+        <en>Farmer list</en>
+        <ar>قائمة المربين</ar>
+    </message>
+    <message key="deconnexion">
+        <fr>Déconnexion</fr>
+        <en>Logout</en>
+        <ar>تسجيل خروج</ar>
+    </message>
+     <message key="deconnexion">
+        <fr>Déconnexion</fr>
+        <en>Logout</en>
+        <ar>تسجيل خروج</ar>
+    </message> 
+    <message key="app_title">
+        <fr>maison intelligente abeilles</fr>
+        <en>smart Bee House</en>
+        <ar>منزل النحل الذكي</ar>
+    </message>
+
+    <message key="add_ferme_title">
+    <fr>Ajouter une Ferme</fr>
+    <en>Add a Farm</en>
+    <ar>إضافة مزرعة</ar>
+</message>
+<message key="ferme_nom">
+    <fr>Nom de la ferme</fr>
+    <en>Farm Name</en>
+    <ar>اسم المزرعة</ar>
+</message>
+<message key="fermier_nom">
+    <fr>Nom du fermier</fr>
+    <en>Farmer Name</en>
+    <ar>اسم المربي</ar>
+</message>
+<message key="localisation">
+    <fr>Localisation</fr>
+    <en>Location</en>
+    <ar>الموقع</ar>
+</message>
+<message key="superficie">
+    <fr>Superficie (en hectares)</fr>
+    <en>Area (in hectares)</en>
+    <ar>المساحة (بالهكتار)</ar>
+</message>
+<message key="date_creation">
+    <fr>Date de création</fr>
+    <en>Creation Date</en>
+    <ar>تاريخ الإنشاء</ar>
+</message>
+<message key="select_fermier">
+    <fr>-- Sélectionner un fermier --</fr>
+    <en>-- Select a farmer --</en>
+    <ar>-- اختر مربي نحل --</ar>
+</message>
+<message key="btn_add_ferme">
+    <fr>Ajouter la ferme</fr>
+    <en>Add Farm</en>
+    <ar>أضف المزرعة</ar>
+</message>
+     <message key="title">
+        <fr>Ajouter une Ferme</fr>
+        <en>Add a Farm</en>
+        <ar>إضافة مزرعة</ar>
+    </message>
+    <message key="farm_name">
+        <fr>Nom de la ferme</fr>
+        <en>Farm Name</en>
+        <ar>اسم المزرعة</ar>
+    </message>
+    <message key="add_farm">
+        <fr>Ajouter la ferme</fr>
+        <en>Add Farm</en>
+        <ar>إضافة المزرعة</ar>
+    </message>
+ 
+</messages>
